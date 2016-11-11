@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VoxFeed</string>
+    <string name="tab_start">Inicio</string>
+    <string name="tab_publications">Publicaciones</string>
+
+    <!--Fragment start-->
+    <string name="welcome_to_voxfeed_textview">Bienvenido a VoxFeed</string>
+
+    <!--Detail-->
+    <string name="like">Me gusta</string>
+    <string name="clicks">Clics</string>
+    <string name="comments">Comentarios</string>
+    <string name="shared">Compartido</string>
+    <string name="scope">Alcance</string>
+    <string name="see_publications_in">Ver publicación en</string>
+    <string name="campaign_invation">Invitación a campañas</string>
+    <string name="usd">usd</string>
+    <string name="internet_error">Sin conexión a internet</string>
+    <string name="publications_not_found">No se encontraron publicaciones :(</string>
+</resources>
